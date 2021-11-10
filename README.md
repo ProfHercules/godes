@@ -49,7 +49,7 @@ The Object calculates and prints statistical parameters for set of samples colle
 ### Installation
 
 ```
-$ go get github.com/agoussia/godes
+$ go get github.com/ProfHercules/godes
 ```
 
 ### Examples
