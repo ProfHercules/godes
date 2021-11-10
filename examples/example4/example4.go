@@ -6,7 +6,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/godes"
+	"github.com/ProfHercules/godes"
 )
 
 const PT_MEAN = 10.0          //	Avg. processing time in minutes
